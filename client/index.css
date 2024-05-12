@@ -969,7 +969,7 @@ body::-webkit-scrollbar {
     .bottom-img {
         margin: 0px;
         margin-top: 10px;
-        width: 100%;
+        width: 60%;
         border: 2px solid #FF8C00;
     }
 }
