@@ -1,3 +1,4 @@
+'use strict'
 const audioParas = document.querySelectorAll('.audio-p');
 const audioPlayers = document.querySelectorAll('.audio-play');
 let currentAudio = null;

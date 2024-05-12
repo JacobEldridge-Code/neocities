@@ -3,15 +3,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "/client/index.html"
-      },
-      {
-        "source": "/style\\.css",
-        "destination": "/client/style.css"
-      },
-      {
-        "source": "/index\\.js",
-        "destination": "/client/index.js"
+        "destination": "/client/$1"
       }
     ]
   }
